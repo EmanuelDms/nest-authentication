@@ -1,0 +1,7 @@
+{
+  "editor.codeActionsOnSave": [
+    "source.organizeImports",
+    "source.fixAll.eslint"
+  ],
+  "files.eol": "\n"
+}
